@@ -1,0 +1,2 @@
+Copenda is a unique social people search engine that allows people to cross-search leading social networks to find your friends, singles for dating, people with similar interests and more.
+Our complex algorithms crawl semi-structured data from multiple social networks and online dating sites such as Myspace, Bebo, Facebook, hi5, friendster, match, plentyoffish,twitter and more.
